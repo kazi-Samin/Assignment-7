@@ -39,11 +39,25 @@ const TimeLine = () => {
                 </ul>
             </div>
              
-             <div>
-                {displayData.map((data, idx) => (
-                    <AddCard key={idx} data={data} />
-                ))}
-             </div>
+           <div className="mt-10">
+  {displayData.length === 0 ? (
+    <div className="bg-gray-50 border border-dashed border-gray-300 rounded-xl p-12 text-center flex flex-col justify-center items-center max-w-2xl mx-auto">
+      
+      <h2 className="text-2xl font-semibold text-gray-800 mb-2">
+        No history yet
+      </h2>
+
+      <p className="text-gray-500 text-sm max-w-md">
+        You haven't made any calls or messages. Your activity timeline will appear here.
+      </p>
+
+    </div>
+  ) : (
+    displayData.map((data, idx) => (
+      <AddCard key={idx} data={data} />
+    ))
+  )}
+</div>
         </div>
     );
 };
