@@ -66,6 +66,4 @@ Works perfectly on:
 * 📅 Reminders
 * 🤖 Smart suggestions
 
-
-
-
+---
