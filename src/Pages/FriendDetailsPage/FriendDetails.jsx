@@ -99,7 +99,7 @@ const FriendDetails = () => {
                     </div>
                 </div>
 
-                {/* Right Column */}
+                
                 <div className="md:col-span-2 space-y-6">
                     <div className="grid grid-cols-3 gap-4">
                         <div className="card bg-white shadow-sm border border-gray-100 px-4 py-8 text-center">
