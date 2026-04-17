@@ -67,3 +67,6 @@ Works perfectly on:
 * 🤖 Smart suggestions
 
 ---
+🔗 Live Link
+
+👉 Live Site: https://keen-keepers-a07.netlify.app/
