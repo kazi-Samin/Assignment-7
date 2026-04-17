@@ -39,15 +39,15 @@ const TimeLine = () => {
                 </ul>
             </div>
              
-           <div className="mt-10">
+           <div className="mt-16">
   {displayData.length === 0 ? (
-    <div className="bg-gray-50 border border-dashed border-gray-300 rounded-xl p-12 text-center flex flex-col justify-center items-center max-w-2xl mx-auto">
+    <div className="bg-gray-50 border border-dashed border-gray-300 rounded-xl p-16 text-center flex flex-col justify-center items-center max-w-3xl max-w-[1110px] mx-auto min-h-[250px]">
       
-      <h2 className="text-2xl font-semibold text-gray-800 mb-2">
+      <h2 className="text-3xl font-semibold text-gray-800 mb-3">
         No history yet
       </h2>
 
-      <p className="text-gray-500 text-sm max-w-md">
+      <p className="text-gray-500 max-w-md">
         You haven't made any calls or messages. Your activity timeline will appear here.
       </p>
 
@@ -58,7 +58,7 @@ const TimeLine = () => {
     ))
   )}
 </div>
-        </div>
+</div>
     );
 };
 
