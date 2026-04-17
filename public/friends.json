@@ -2,11 +2,11 @@
   {
     "id": 1,
     "name": "Michael Johnson",
-    "picture": "https://i.ibb.co.com/0RXwx7yX/Ellipse-0-1.png",
+    "picture": "https://i.ibb.co.com/QFWDdnkg/Ellipse-1.png",
     "email": "michael.johnson@yahoo.com",
     "days_since_contact": 18,
     "status": "overdue",
-    "tags": ["school friend", "close friend"],
+    "tags": ["WORK"],
     "bio":  "We met during a local sports event and quickly became good friends. We still catch up whenever we get time.",
     "goal": 14,
     "next_due_date": "2026-04-10"
@@ -18,7 +18,7 @@
     "email": "william.miller@outlook.com",
     "days_since_contact": 12,
     "status": "almost due",
-    "tags": ["University", "Group study"],
+    "tags": ["UNIVERSITY"],
     "bio":  "A university friend who shares the same passion for technology. We often discuss new ideas and future plans.",
     "goal": 14,
     "next_due_date": "2026-04-19"
@@ -30,7 +30,7 @@
     "email": "oliverbrown@gmail.com",
     "days_since_contact": 5,
     "status": "on-track",
-    "tags": ["brother", "close friend"],
+    "tags": ["WORK", "FRIEND"],
     "bio": "We became friends through a group project. Since then, we’ve stayed connected and help each other when needed.",
     "goal": 10,
     "next_due_date": "2026-04-22"
@@ -42,7 +42,7 @@
     "email": "shopia.wilson@gmail.com",
     "days_since_contact": 20,
     "status": "overdue",
-    "tags": ["cousin", "family"],
+    "tags": ["HOBBY", "FAMILY"],
     "bio": "A family member I’ve known since childhood. We don’t meet often, but we always stay in touch.",
     "goal": 15,
     "next_due_date": "2026-04-08"
@@ -54,7 +54,7 @@
     "email": "benjammore@gmail.com",
     "days_since_contact": 13,
     "status": "almost due",
-    "tags": ["football", "local friend"],
+    "tags": [ "LOCAL FRIEND"],
     "bio":  "A friendly neighbor who enjoys outdoor games. We usually spend weekends playing and chatting.",
     "goal": 14,
     "next_due_date": "2026-04-18"
@@ -66,7 +66,7 @@
     "email": "ava.taylor@gmail.com",
     "days_since_contact": 7,
     "status": "on-track",
-    "tags": ["online friend", "tech"],
+    "tags": ["WORK","FAMILY"],
     "bio": "Connected online through shared interests in coding. We regularly exchange knowledge and resources.",
     "goal": 14,
     "next_due_date": "2026-04-24"
@@ -78,7 +78,7 @@
     "email": "daniel.thomas@gmail.com",
     "days_since_contact": 16,
     "status": "overdue",
-    "tags": ["project partner", "university"],
+    "tags": ["WORK", "SPORTS"],
     "bio": "Met during a training session. A very dedicated and reliable person to work with.",
     "goal": 14,
     "next_due_date": "2026-04-12"
@@ -90,7 +90,7 @@
     "email": "charlottemaartinez@outlook.com",
     "days_since_contact": 9,
     "status": "on-track",
-    "tags": ["neighbor", "family friend"],
+    "tags": ["FAMILY"],
     "bio":  "A long-time family friend. We often meet during special occasions and enjoy spending time together.",
     "goal": 12,
     "next_due_date": "2026-04-21"

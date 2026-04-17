@@ -46,7 +46,7 @@ const StatsPage = () => {
   ) : (
 
     
-    <div className="bg-white rounded-lg shadow-lg p-8">
+    <div className="bg-white rounded-lg shadow-lg p-8 border-0 outline-none focus:outline-none">
       
       <h2 className="text-5xl mb-6 text-[#1F2937] font-bold">
         Friendship Analytics
@@ -54,7 +54,7 @@ const StatsPage = () => {
 
       <p>By Interaction Type</p>
 
-      <div className="w-full h-[400px]">
+     <div className="w-full h-[400px] outline-none focus:outline-none">
         <ResponsiveContainer width="100%" height="100%">
           <PieChart>
             <Pie
@@ -66,7 +66,7 @@ const StatsPage = () => {
               dataKey="value"
             />
             <Legend />
-            <Tooltip />
+            <Tooltip cursor={{ fill: "transparent" }} />
           </PieChart>
         </ResponsiveContainer>
       </div>
